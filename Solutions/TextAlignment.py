@@ -1,4 +1,4 @@
-#/bin/bash/env python2
+#/bin/env python2
 thickness = int(raw_input())  # This must me an odd number
 c = 'H'
 
